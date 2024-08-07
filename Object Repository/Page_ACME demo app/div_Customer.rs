@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer</name>
+   <tag></tag>
+   <elementGuidId>23c9b22c-a56c-4ce8-b09b-020e50c314aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.logged-user-role</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Jack Gomez'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Customer&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b55b2c18-b229-4fcc-bb38-cbb96a19f633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logged-user-role</value>
+      <webElementGuid>1af6975c-ff1e-4aad-800a-9f8a483c259a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                Customer
+              </value>
+      <webElementGuid>d7889da5-eb40-462d-8898-420d757c6896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;menu-position-side menu-side-left full-screen&quot;]/div[@class=&quot;all-wrapper solid-bg-all&quot;]/div[@class=&quot;layout-w&quot;]/div[@class=&quot;menu-w color-scheme-light color-style-transparent menu-position-side menu-side-left menu-layout-compact sub-menu-style-over sub-menu-color-bright selected-menu-color-light menu-activated-on-hover menu-has-selected-link&quot;]/div[@class=&quot;logged-user-w avatar-inline&quot;]/div[@class=&quot;logged-user-i&quot;]/div[@class=&quot;logged-user-info-w&quot;]/div[@class=&quot;logged-user-role&quot;]</value>
+      <webElementGuid>b3b25ece-f98e-4c17-b646-03e5bf66ff54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jack Gomez'])[1]/following::div[1]</value>
+      <webElementGuid>14d272a9-120f-4a46-be25-a6e0ef29c1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No files were found. Try changing your query...'])[1]/following::div[8]</value>
+      <webElementGuid>4e2c21bb-9924-440b-a78e-488c54532bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/preceding::div[3]</value>
+      <webElementGuid>258dea47-f59a-4d3c-b9fa-40b5510cdb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card types'])[1]/preceding::div[3]</value>
+      <webElementGuid>508ecb13-91f5-4945-a98b-8beb70f62c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer']/parent::*</value>
+      <webElementGuid>70ba21d3-a725-467b-9257-e1877a69262e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>13c17f00-d509-46ce-90c0-de1fb508cf44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                Customer
+              ' or . = '
+                Customer
+              ')]</value>
+      <webElementGuid>5bb4dd54-2654-4687-9851-7ed46f3626a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

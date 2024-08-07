@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn more_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb_1</name>
+   <tag></tag>
+   <elementGuidId>c345595d-71e6-4bb4-88c0-113772641830</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='next']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.WpHeLc.VfPpkd-mRLv6.VfPpkd-RLmnJb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Try again&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>401d76ff-7a68-400b-b3e5-0e7eb663b8cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb</value>
+      <webElementGuid>742f3cbf-d747-4212-bd2c-3d4d6e0d025d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/restart?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button&amp;ddm=0&amp;dsh=S202776945%3A1722522988031124&amp;flowEntry=ServiceLogin&amp;flowName=GlifWebSignIn&amp;ifkv=AdF4I746mzTYYDWftf0tRDLUmBrsATPiwdCGMHwkKTwdu7Va67wVguBnaLiLOIn3XHkk_vSm_JJa&amp;service=accountsettings</value>
+      <webElementGuid>455751e6-8e67-4e7d-a58a-d6b6b090e685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Try again</value>
+      <webElementGuid>3768eef5-98b1-4cc5-8232-1b5f0e15c94b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-navigation</name>
+      <type>Main</type>
+      <value>server</value>
+      <webElementGuid>9147c24d-6a7c-42ee-a046-b66ce82ccde6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>hSRGPd</value>
+      <webElementGuid>cd734fdd-9cab-41a0-9dfb-e347a6bdf1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/div[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d&quot;]/a[@class=&quot;WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb&quot;]</value>
+      <webElementGuid>7a29ea1e-c0f4-4f1d-8f3a-1b968fee958c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='next']/div/div/a</value>
+      <webElementGuid>9c3e0c89-ed84-4a25-98c5-168aa7311e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/restart?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button&amp;ddm=0&amp;dsh=S202776945%3A1722522988031124&amp;flowEntry=ServiceLogin&amp;flowName=GlifWebSignIn&amp;ifkv=AdF4I746mzTYYDWftf0tRDLUmBrsATPiwdCGMHwkKTwdu7Va67wVguBnaLiLOIn3XHkk_vSm_JJa&amp;service=accountsettings')]</value>
+      <webElementGuid>431b5ac3-54de-4774-a10b-582c79813aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a</value>
+      <webElementGuid>7180445b-d6b0-40da-80b6-4ec956865bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/restart?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dgo-to-account-button&amp;ddm=0&amp;dsh=S202776945%3A1722522988031124&amp;flowEntry=ServiceLogin&amp;flowName=GlifWebSignIn&amp;ifkv=AdF4I746mzTYYDWftf0tRDLUmBrsATPiwdCGMHwkKTwdu7Va67wVguBnaLiLOIn3XHkk_vSm_JJa&amp;service=accountsettings']</value>
+      <webElementGuid>b364eeff-11aa-456b-9870-7be35bbdf677</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
